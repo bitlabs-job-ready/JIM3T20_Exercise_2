@@ -1,0 +1,12 @@
+Exercise 1:
+Create a new repository named "Git_Exercise_2" with a readme file in the repository, use the following instructions:
+
+1. Clone the link in the Git Bash
+2. Add 2 different Java files using the add command
+3. Check the status of the directory
+4. Check the log graph using oneline command
+5. Check the log modifications made between yesterday and today.
+6. Check the different changes that have staged but not commited.
+7. Check the status of a deleted file.
+
+Note: Kindly copy all the code from the Git Bash and paste it here.
